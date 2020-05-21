@@ -1,0 +1,2 @@
+# artifactory-pipeline-github
+artifactorypipelinegithub
